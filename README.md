@@ -154,6 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/Alexandra4373) 
+Alexandra Quao - [Github](https://github.com/Alexandra4373) 
 
 
